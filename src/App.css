@@ -39,30 +39,36 @@
 
 .App {
   text-align: center;
+  background-image: url('https://images.pexels.com/photos/3944418/pexels-photo-3944418.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
 }
 
 .header{
-  color: brown;
-  background-color: rgb(90, 224, 157);
-  padding: 25px;
+  font-family: italic;
+  font-size: 20px;
+  color: white;
+  background-color: #7aa37b;
+  padding: 10px;
 }
 
 .footer{
   background-color:rgb(94, 93, 93);
   color: white;
   font-size: larger;
-  padding: 8px;
+  padding: 14px;
 }
 
 .main{
-  padding: 177px;
+  
+  padding: 70px;
 }
 
 .title{
+  margin-left: 20%;
+  margin-right:20% ;
   color: white;
-  background-color: blue;
+  background-color: rgba(115, 115, 121, 0.356);
   font-size: 30px;
-  padding: 8px;
+  padding: 3% 3% 1% 1%;
 }
 
 .button {
